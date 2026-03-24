@@ -99,8 +99,8 @@
 #### Шаг 1 — Клонирование репозитория
 
 ```bash
-git clone https://github.com/AshCorporate/12-week-plans.git
-cd 12-week-plans
+git clone https://github.com/visCERBERUS/VIS_Method.git
+cd VIS_Method
 ```
 
 #### Шаг 2 — Установка зависимостей
@@ -188,8 +188,8 @@ npm run preview
 #### Step 1 — Clone the repository
 
 ```bash
-git clone https://github.com/AshCorporate/12-week-plans.git
-cd 12-week-plans
+git clone https://github.com/visCERBERUS/VIS_Method.git
+cd VIS_Method
 ```
 
 #### Step 2 — Install dependencies
@@ -271,8 +271,8 @@ All data is stored in the browser's **LocalStorage** — no server required.
 - [Node.js](https://nodejs.org/) versión **18+**
 
 ```bash
-git clone https://github.com/AshCorporate/12-week-plans.git
-cd 12-week-plans
+git clone https://github.com/visCERBERUS/VIS_Method.git
+cd VIS_Method
 npm install
 npm run dev        # → http://localhost:5173
 npm run build      # Compilar para producción
@@ -325,8 +325,8 @@ npm run preview    # Vista previa
 - [Node.js](https://nodejs.org/) 版本 **18+**
 
 ```bash
-git clone https://github.com/AshCorporate/12-week-plans.git
-cd 12-week-plans
+git clone https://github.com/visCERBERUS/VIS_Method.git
+cd VIS_Method
 npm install
 npm run dev        # → http://localhost:5173
 npm run build      # 构建生产版本
